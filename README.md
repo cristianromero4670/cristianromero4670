@@ -1,10 +1,11 @@
 ### Hi there 👋
 ## 🔭 I’m currently working on website EluHouse
 
-[visita la pagina] (https://cristianromero4670.github.io/eluHouse/)
-💬 chat with me about web design
+[visita la pagina](https://cristianromero4670.github.io/eluHouse/)
+💬 chat with me about web design  
 
-[other page more...] (https://cristianromero4670.github.io/Web-Atelier/)
+
+[other page more...](https://cristianromero4670.github.io/Web-Atelier/)
 
 <!--
 **cristianromero4670/cristianromero4670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
