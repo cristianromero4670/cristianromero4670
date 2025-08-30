@@ -1,7 +1,5 @@
 ### Hi there 👋
-## 🔭 I’m currently working on website EluHouse
-
-[visita la pagina](https://cristianromero4670.github.io/eluHouse/)
+## 🔭 I’m currently working on website EluHouse  [visita la pagina](https://cristianromero4670.github.io/eluHouse/)
 
   
 [other page more...](https://cristianromero4670.github.io/Web-Atelier/)
